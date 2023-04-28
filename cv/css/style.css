@@ -196,7 +196,7 @@ h1#prenom_nom span{
 div#premier_bloc{
     background-color:rgba(85, 64, 82, 0.103); ;
     border-radius: 15px;
-    height: 280px;
+    height: 300px;
 }
 mark{
     background-color: rgba(101, 45, 180, 0.173);
@@ -244,7 +244,7 @@ div#deuxieme_bloc h3#deuxieme_point span{
 div#troisieme_bloc{
     background-color:rgba(85, 64, 82, 0.103); ;
     border-radius: 15px;
-    height: 100px;
+    height: 80px;
 }
 div#troisieme_bloc h4#troisieme_point{
     padding-top: 5px;
